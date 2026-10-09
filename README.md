@@ -20,6 +20,10 @@ I have built the electrical, embedded and software side of automotive test rigs,
 **[test-rig-anomaly-agent](https://github.com/sjpark513/test-rig-anomaly-agent)**: an LLM agent that reads test rig sensor data, searches test procedures and failure history, and drafts an inspection report.
 Built in public over six phases (Oct 2026 – Apr 2027): structured extraction → RAG → tool-using agent with a Modbus rig simulator → evaluation → deployment.
 
+### Learning
+
+**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: notes and code from building a GPT-style model step by step, from the tokenizer to fine-tuning.
+
 ### Tech
 
 **Engineering:** `Circuit design` · `PCB design` · `FPGA` · `Embedded firmware` · `Test rig control` · `CAN` · `CANoe`
@@ -55,6 +59,10 @@ Built in public over six phases (Oct 2026 – Apr 2027): structured extraction �
 
 **[test-rig-anomaly-agent](https://github.com/sjpark513/test-rig-anomaly-agent)**: 시험 설비의 센서 데이터를 읽고, 시험 절차서와 고장 이력을 찾아, 점검 보고서 초안을 만드는 LLM 에이전트입니다.
 2026년 10월부터 2027년 4월까지 6단계로 나눠 공개적으로 개발합니다. 구조화 추출 → RAG → Modbus 시뮬레이터와 연동한 에이전트 → 평가 → 배포 순서입니다.
+
+### 공부하고 있는 것
+
+**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: 토크나이저부터 파인튜닝까지 GPT 방식의 모델을 직접 만들어 보며 정리하는 학습 기록입니다.
 
 ### 기술
 
