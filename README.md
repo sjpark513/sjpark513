@@ -22,7 +22,7 @@ Built in public over six phases (Oct 2026 – Apr 2027): structured extraction �
 
 ### Learning
 
-**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: notes and code from building a GPT-style model step by step, from the tokenizer to fine-tuning.
+**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: notes and code from building language models step by step, from N-gram statistics through the Transformer to a fine-tuned chat model (following HongLab's *LLM 바닥부터 만들기*).
 
 ### Tech
 
@@ -62,7 +62,7 @@ Built in public over six phases (Oct 2026 – Apr 2027): structured extraction �
 
 ### 공부하고 있는 것
 
-**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: 토크나이저부터 파인튜닝까지 GPT 방식의 모델을 직접 만들어 보며 정리하는 학습 기록입니다.
+**[llm-from-scratch](https://github.com/sjpark513/llm-from-scratch)**: 홍랩의 「LLM 바닥부터 만들기」 강의를 따라 앤그램 통계부터 트랜스포머, 대화형 모델 파인튜닝까지 직접 만들어 보며 정리하는 학습 기록입니다.
 
 ### 기술
 
